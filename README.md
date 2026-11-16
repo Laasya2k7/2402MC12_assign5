@@ -83,3 +83,7 @@ Q4 – Dining Philosophers
 $ dining
 
 The output shows the five philosophers transitioning between THINKING, HUNGRY, and EATING, with all philosophers completing their required cycles.
+
+
+the semaphore file is created in kernel
+
